@@ -4,3 +4,4 @@ java script project
 ...
 number
 multiply
+sum
